@@ -1,0 +1,14 @@
+{
+  "name": "Balance-manager",
+  "scripts": {
+  },
+  "env": {
+    "JAVA_OPTS": {
+      "required": true
+    }
+  },
+  "addons": [
+    "cleardb",
+    "heroku-postgresql"
+  ]
+}
